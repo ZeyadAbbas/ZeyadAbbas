@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 🤖 Building my knowledge as I go through it all.
 
 # 📈 Stats and Accomplishments
-<div style="text-align: center;">
+<div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zeyadabbas&theme=nord&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true)
 
@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 </div>
 
 # 📫 Get in Touch With Me
-<div align="center">
+<div>
     <a target="_blank" href="https://www.linkedin.com/in/zeyad-abbas-/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
