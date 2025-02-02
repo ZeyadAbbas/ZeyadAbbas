@@ -44,10 +44,10 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 # 📫 Get in Touch With Me
 <div style="text-align: center;">
-    <a href="https://www.linkedin.com/in/zeyad-abbas-/">
+    <a href="https://www.linkedin.com/in/zeyad-abbas-/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
-    <a href="mailto:zeyadabbas238@gmail.com">
+    <a href="mailto:zeyadabbas238@gmail.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=gmail" />
     </a>
 </div>
