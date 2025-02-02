@@ -8,45 +8,49 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 🎯 **Goal-Oriented:** My main goal is to contribute to impactful open-source projects and collaborate with like-minded developers.
 
-# 🛠️ Technologies & Tools
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-    <p>
-        **Languages:** <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,java,cs,cpp" />Java, C++, C#, Python, Lua, Rust, JavaScript, React.js
-    </p>
+# 🛠️ Technologies & Tools Used Recently
+<div>
+    <h2 style="font-size: 28px; font-weight: bold;">Languages</h2>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,java,cs,cpp,lua,arduino" />
+    <h2 style="font-size: 28px; font-weight: bold;">Databases</h2>
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb" />
+    <h2 style="font-size: 28px; font-weight: bold;">Tools</h2>
+    <img src="https://skillicons.dev/icons?i=git,github,react,nodejs,express,next,docker,kubernetes,postman,dotnet,pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=tailwind,kotlin,gradle,aws,gcp,linux,windows,bash" />    
+    <h2 style="font-size: 28px; font-weight: bold;">Platforms</h2>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,androidstudio,matlab,photoshop,unity,figma" />
 </div>
 
-<p style="text-align: justify;">
-**Languages:**
-</p>
 
-**Database:** MongoDB, MySQL, PostgreSQL
-
-**Tools:** Git, AWS, Linux, MATLAB, Photoshop
-
-**Circuit Design:** Altium, LogicWorks
-
-**3D Design:** SolidWorks, Fusion360
+**Others: Altium, LogicWorks, SolidWorks, Fusion360**
 
 # 💡 What I’m Working On
-📚 Publishing all my proviously created projects for public use and scalability.
+📚 Publishing all my previously created projects for public use and scalability.
 
-🔧 Enhancing my current published projects per consumer feeback and to include more scalable features.
+🔧 Enhancing my current published projects per consumer feedback and to include more scalable features.
 
 🤖 Building my knowledge as I go through it all.
 
-# 📈 GitHub Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/ZeyadAbbas?theme=nord&ext=heatmap&hide=ranking)
+# 📈 Stats and Accomplishments
+<div style="text-align: center;">
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,java,cs,cpp" />
-    <img src="https://skillicons.dev/icons?i=git,github,react,nodejs,express,next,mysql,mongodb,docker,kubernetes,postman,pytorch,tensorflow,aws,gcp,linux,windows" />
-    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,matlab,photoshop,unity" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zeyadabbas&theme=nord&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true)
 
-# 📫 Get in Touch
-LinkedIn: https://www.linkedin.com/in/zeyad-abbas-
+![GitHub Streak](https://streak-stats.demolab.com?user=zeyadabbas&theme=nord&hide_border=true&mode=weekly)
 
-Email: zeyadabbas238@example.com
+![Leetcode Stats](https://leetcard.jacoblin.cool/ZeyadAbbas?theme=nord&ext=heatmap&hide=ranking&border=0)
+
+</div>
+
+# 📫 Get in Touch With Me
+<div style="text-align: center;">
+    <a href="https://www.linkedin.com/in/zeyad-abbas-/">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+    <a href="mailto:zeyadabbas238@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>
+</div>
 
 # 🤝 Open to Collaboration
 I'm always looking for interesting projects to collaborate on, especially those involving innovative technologies or tools. Feel free to reach out if you'd like to work together or just have a chat about tech!
