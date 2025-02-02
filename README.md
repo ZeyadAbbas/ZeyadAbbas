@@ -9,7 +9,15 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 🎯 **Goal-Oriented:** My main goal is to contribute to impactful open-source projects and collaborate with like-minded developers.
 
 # 🛠️ Technologies & Tools
-**Languages:** Java, C++, C#, Python, Lua, Rust, JavaScript, React.js
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+    <p>
+        **Languages:** <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,java,cs,cpp" />Java, C++, C#, Python, Lua, Rust, JavaScript, React.js
+    </p>
+</div>
+
+<p style="text-align: justify;">
+**Languages:**
+</p>
 
 **Database:** MongoDB, MySQL, PostgreSQL
 
@@ -27,9 +35,16 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 🤖 Building my knowledge as I go through it all.
 
 # 📈 GitHub Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/ZeyadAbbas?theme=nord&ext=heatmap&hide=ranking)
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,java,cs,cpp" />
+    <img src="https://skillicons.dev/icons?i=git,github,react,nodejs,express,next,mysql,mongodb,docker,kubernetes,postman,pytorch,tensorflow,aws,gcp,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,matlab,photoshop,unity" />
+</p>
 
 # 📫 Get in Touch
-LinkedIn: linkedin.com/in/zeyad-abbas-
+LinkedIn: https://www.linkedin.com/in/zeyad-abbas-
 
 Email: zeyadabbas238@example.com
 
