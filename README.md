@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 # 🛠️ Technologies & Tools Used Recently
 <div>
     <h2 style="font-size: 28px; font-weight: bold;">Languages</h2>
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,java,cs,cpp,lua,arduino" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,java,cs,cpp,v,lua,arduino" />
     <h2 style="font-size: 28px; font-weight: bold;">Databases</h2>
     <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb" />
     <h2 style="font-size: 28px; font-weight: bold;">Tools</h2>
